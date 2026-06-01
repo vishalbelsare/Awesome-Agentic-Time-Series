@@ -6,8 +6,6 @@
 
 A curated list of papers on **Agentic Time Series**, covering time series foundation models, LLM4TS, temporal reasoning, benchmarks, memory, world models, reliability, and fully agentic time series systems.
 
-> Associated survey: **The Landscape of Agentic Time Series Systems: Paradigms, Architectures, Reliability, and Frontiers**.
-
 ## 📢 News
 
 🚩 **2026-06-01** Initial release of `Awesome-Agentic-Time-Series`.
@@ -301,10 +299,6 @@ If the paper has code, data, project pages, or benchmark resources, feel free to
 
 If you find this repository useful, please consider citing the associated survey once available.
 
-```bibtex
-@article{
-}
-```
 
 ## 📄 License
 
