@@ -348,4 +348,4 @@ This repository is released under the MIT License.
 
 ## ⭐️ Star History
 
-![Star History Chart](https://api.star-history.com/svg?repos=TROUBADOUR000/Awesome-Agentic-Time-Series#perception-agents&type=date&legend=top-left)
+![Star History Chart](https://api.star-history.com/svg?repos=TROUBADOUR000/Awesome-Agentic-Time-Series&type=date&legend=top-left)
