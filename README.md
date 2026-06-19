@@ -334,12 +334,9 @@ If the paper has code, data, project pages, or benchmark resources, feel free to
 If you find this repository useful, please consider citing the associated survey once available.
 
 ```bibtex
-@misc{tsagent_survey,
-  author       = {Yifan Hu, Jie Yang, Xilin Dai, Wanxu Cai, Kuiye Ding, Yuante Li, Qinghua Liu, Enze Ma, Zhiyuan Qu, Yixin Wang, Binyan Xu, Kexin Zhang, Peiyuan Liu, Zhijian Xu, Guibin Zhang, Yujin Tang, Yanwei Yue, Kening Zheng, Chengze Li, Hanrong Zhang, Haoyan Xu, Naiqi Li, Tao Dai, Dawei Cheng, John Paparrizos, Kaize Ding, Tian Zhou, Qiang Xu, Shu-tao Xia, Shirui Pan, Philip S. Yu},
-  title        = {The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Frontiers},
-  year         = {2026},
-  howpublished = {\url{https://github.com/TROUBADOUR000/Awesome-Agentic-Time-Series}},
-  note         = {GitHub repository}
+@article{hulandscape,
+  title={The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Frontiers},
+  author={Hu, Yifan and Yang, Jie and Dai, Xilin and Cai, Wanxu and Ding, Kuiye and Li, Yuante and Liu, Qinghua and Ma, Enze and Qu, Zhiyuan and Wang, Yixin and others}
 }
 ```
 
