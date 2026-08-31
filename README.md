@@ -301,6 +301,7 @@ models, LLM4TS, and time series agents." width="80%" />
 - [2024] MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks. [[paper](https://www.scilit.com/publications/mas-lstm)]
 
 #### Memory and Knowledge Agents
+- [2026/08] ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction. [[paper](https://arxiv.org/abs/2608.20920)]
 - [2026/06] MOSAIC: Modular Orchestration for Structured Agentic Intelligence and Composition. [[paper](https://arxiv.org/abs/2606.00708)]
 - [2026/04] CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting. [[paper](https://arxiv.org/abs/2604.27840)]
 - [2026/04] An Autonomous Large Language Model-Agent Framework for Transparent and Local Time Series Forecasting. [[paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aidi.202500236)]
