@@ -56,6 +56,7 @@ models, LLM4TS, and time series agents." width="80%" />
 ### Benchmarks and Datasets
 
 #### Forecasting and General Evaluation
+- [2026/04] TS-Arena -- A Live Forecast Pre-Registration Platform. [[paper](https://dl.acm.org/doi/abs/10.1145/3770855.3817515)]
 - [2026/02] It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks. [[paper](https://arxiv.org/abs/2602.12147)]
 - [2025/09] fev-bench: A Realistic Benchmark for Time Series Forecasting. [[paper](https://arxiv.org/abs/2509.26468)]
 - [2024/10] GIFT-Eval: A Benchmark for General Time Series Forecasting Model Evaluation. [[paper](https://arxiv.org/abs/2410.10393)]
