@@ -359,9 +359,11 @@ If the paper has code, data, project pages, or benchmark resources, feel free to
 If you find this repository useful, please consider citing the associated survey once available.
 
 ```bibtex
-@article{hulandscape,
-  title={The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Frontiers},
-  author={Hu, Yifan and Yang, Jie and Dai, Xilin and Cai, Wanxu and Ding, Kuiye and Li, Yuante and Liu, Qinghua and Ma, Enze and Qu, Zhiyuan and Wang, Yixin and others}
+@misc{hulandscape,
+  title = {The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Frontiers},
+  author = {Hu, Yifan and Yang, Jie and Dai, Xilin and Cai, Wanxu and Ding, Kuiye and Li, Yuante and Liu, Qinghua and Ma, Enze and Qu, Zhiyuan and Wang, Yixin and Xu, Binyan and Zhang, Kexin and Liu, Peiyuan and Xu, Zhijian and Zhang, Guibin and Tang, Yujin and Yue, Yanwei and Zheng, Kening and Li, Chengze and Zhang, Hanrong and Xu, Haoyan and Li, Naiqi and Dai, Tao and Cheng, Dawei and Paparrizos, John and Ding, Kaize and Zhou, Tian and Xu, Qiang and Xia, Shu-tao and Pan, Shirui and Yu, Philip S.},
+  year = {2026},
+  howpublished = {Preprint}
 }
 ```
 
